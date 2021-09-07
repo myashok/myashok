@@ -34,7 +34,7 @@ I am Shiv, people call me Shiv, currently working  in @grofers . I am current wo
 
 <p align="center">
 <br>
-  <img src ="https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true&theme=darcula&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api?username=myashok&count_private=true&show_icons=true&include_all_commits=true&theme=darcula&bg_color=00000000">
 <br>
 <br>
 <br>
