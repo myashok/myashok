@@ -1,7 +1,7 @@
 
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/myashok/myashok/master/wave.gif" width="30px">
 
-I am Shiv, people call me Shiv, currently working  in @grofers . I am current working as backend developer but I am learning frontend.
+I am Shiv, people call me Shiv, currently working  in [Grofers](https://github.com/grofers)s . I am current working as backend developer but I am learning frontend.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
