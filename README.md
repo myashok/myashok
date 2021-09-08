@@ -1,7 +1,7 @@
 
 ## Fancy seeing you here! 👋
 
-I am Shiv, people call me Shiv, currently working  in [Grofers](https://github.com/grofers) . I am current working as backend developer but I am learning frontend.
+I am Shiv, people call me Shiv, currently working  in [Grofers](https://github.com/grofers). I am current working as backend developer but I am learning frontend.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
