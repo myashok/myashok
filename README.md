@@ -33,6 +33,7 @@ I am Shiv, people call me Shiv, currently working  in [Grofers](https://github.c
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <p align="center">
+  <img src = "https://metrics.lecoq.io/myashok?template=classic&config.timezone=Asia%2FJakarta" alt = "Metrics">
 <br>
   <img src ="https://github-readme-stats.vercel.app/api?username=myashok&count_private=true&show_icons=true&include_all_commits=true&theme=darcula&bg_color=00000000">
 <br>
