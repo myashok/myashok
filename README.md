@@ -1,7 +1,7 @@
 
 ## Fancy seeing you here! 👋
 
-I am Shiv, people call me Shiv, currently working  in [Pazcare](https://github.com/getpaz). I am current working as backend developer but I am learning frontend.
+I am Shiv, people call me Shiv, currently working  in [Acko](https://github.com/ackotech). I am current working as backend developer but have expertise in frontend also.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
